@@ -1,0 +1,63 @@
+02:47:14 PM: DEBUG [logger_base.py: 10 Mensaje a nivel debug]
+02:47:14 PM: INFO [logger_base.py: 11 Mensaje a nivel info]
+02:47:14 PM: WARNING [logger_base.py: 12 Mensaje a nivel de warning]
+02:47:14 PM: ERROR [logger_base.py: 13 Mensaje a nivel de error]
+02:47:14 PM: CRITICAL [logger_base.py: 14 Mensaje a nivel critico]
+04:54:29 PM: DEBUG [persona.py: 48 
+            Id Persona: 1, NombreGian, apellidoYanayaco, Email: gian@gmail.com
+            ]
+05:13:55 PM: DEBUG [persona.py: 48 
+            Id Persona: 1, NombreGian, apellidoYanayaco, Email: gian@gmail.com
+            ]
+05:13:55 PM: DEBUG [persona.py: 53 
+            Id Persona: None, NombreGian, apellidoYanayaco, Email: gian@gmail.com
+            ]
+05:13:55 PM: DEBUG [persona.py: 58 
+            Id Persona: 1, NombreNone, apellidoNone, Email: None
+            ]
+06:42:47 PM: ERROR [conexion.py: 27 Ocurrió una excepción: connection to server at "127.0.0.1", port 5742 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+]
+07:39:02 PM: ERROR [conexion.py: 27 Ocurrió una excepción: connection to server at "127.0.0.1", port 5742 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+]
+07:40:31 PM: ERROR [conexion.py: 27 Ocurrió una excepción: connection to server at "127.0.0.1", port 5742 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+]
+06:16:13 PM: ERROR [conexion.py: 27 Ocurrió una excepción: connection to server at "127.0.0.1", port 5742 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+]
+06:16:37 PM: ERROR [conexion.py: 27 Ocurrió una excepción: connection to server at "127.0.0.1", port 5742 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+]
+06:18:06 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x0000011706A9B560; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:24:56 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x000001EBFE7D3560; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:25:38 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x000001B8D8913560; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:28:03 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x0000029EEF113560; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:28:16 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x00000186E32F3560; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:28:16 PM: DEBUG [persona_DAO.py: 33 Persona a insertar: 
+            Id Persona: None, NombrePedro, apellidoJara, Email: jara@gmail.com
+            ]
+06:28:16 PM: DEBUG [persona_DAO.py: 40 Persona insertadas: 1]
+06:44:27 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x000001D036175690; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:46:37 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x000001B218045690; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:52:50 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x000002E494135690; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:52:50 PM: DEBUG [persona_DAO.py: 47 
+            Id Persona: 1, NombreJuan, apellidoPerez, Email: perez@gmail.com
+            ]
+06:52:50 PM: DEBUG [persona_DAO.py: 47 
+            Id Persona: 3, NombreAlberto, apellidoSalinas, Email: alberto@gmail.com
+            ]
+06:52:50 PM: DEBUG [persona_DAO.py: 47 
+            Id Persona: 4, NombrePedro, apellidoJara, Email: jara@gmail.com
+            ]
+06:53:02 PM: DEBUG [conexion.py: 24 Conexión exitosa: <connection object at 0x000002416AA55690; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>]
+06:53:02 PM: DEBUG [persona_DAO.py: 47 
+            Id Persona: 1, NombreJuan, apellidoPerez, Email: perez@gmail.com
+            ]
+06:53:02 PM: DEBUG [persona_DAO.py: 47 
+            Id Persona: 3, NombreAlberto, apellidoSalinas, Email: alberto@gmail.com
+            ]
+06:53:02 PM: DEBUG [persona_DAO.py: 47 
+            Id Persona: 4, NombrePedro, apellidoJara, Email: jara@gmail.com
+            ]
